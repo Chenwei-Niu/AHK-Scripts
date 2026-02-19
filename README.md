@@ -1,6 +1,6 @@
 # League of Legends AHK Utilities & Scripts
 
-A collection of AutoHotkey (AHK) scripts designed for League of Legends. This repository includes quality-of-life utilities to prevent accidental game minimization, as well as a historical mechanical script used during the Aurelion Sol Champion Rework (英雄重做).
+A collection of AutoHotkey (AHK) scripts designed for League of Legends. This repository includes quality-of-life utilities to prevent accidental game minimization, as well as a historical mechanical script used during the Aurelion Sol Champion Rework.
 
 ⚠️ **Disclaimer:** *Use these scripts at your own risk. Third-party macros that interact with the game or automate inputs may violate Riot Games' Terms of Service and can result in account bans.*
 
